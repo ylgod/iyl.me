@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://iyl.me/</link>
-    <description>Recent content on </description>
+    <title>Hello Hugo on </title>
+    <link>https://iyl.me/tags/hello-hugo/</link>
+    <description>Recent content in Hello Hugo on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Thu, 28 Nov 2024 17:50:00 +0800</lastBuildDate>
-    <atom:link href="https://iyl.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iyl.me/tags/hello-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://iyl.me/hello-hugo/</link>

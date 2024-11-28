@@ -6,13 +6,13 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 06 Jan 2024 23:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 17:50:00 +0800</lastBuildDate>
     <atom:link href="https://iyl.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>美食</title>
-      <link>https://iyl.me/tags/%E7%BE%8E%E9%A3%9F/</link>
-      <pubDate>Sat, 06 Jan 2024 23:04:00 +0800</pubDate>
-      <guid>https://iyl.me/tags/%E7%BE%8E%E9%A3%9F/</guid>
+      <title>Hello Hugo</title>
+      <link>https://iyl.me/tags/hello-hugo/</link>
+      <pubDate>Thu, 28 Nov 2024 17:50:00 +0800</pubDate>
+      <guid>https://iyl.me/tags/hello-hugo/</guid>
       <description></description>
     </item>
   </channel>
